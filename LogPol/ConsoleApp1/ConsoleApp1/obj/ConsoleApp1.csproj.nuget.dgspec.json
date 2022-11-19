@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Еще одна крутая ПЗшка Логинов Полянский\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\LogPol\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Еще одна крутая ПЗшка Логинов Полянский\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\LogPol\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Еще одна крутая ПЗшка Логинов Полянский\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\LogPol\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Еще одна крутая ПЗшка Логинов Полянский\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\LogPol\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\polyanskiy.av1267\\.nuget\\packages\\",
-        "outputPath": "D:\\Еще одна крутая ПЗшка Логинов Полянский\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\LogPol\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polyanskiy.av1267\\AppData\\Roaming\\NuGet\\NuGet.Config",
