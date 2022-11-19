@@ -3,3 +3,13 @@
 int result = x + y;
 
 Console.WriteLine(result);
+
+int result2 = x - y;
+
+Console.WriteLine(result2);
+
+int result3 = x * y;
+Console.WriteLine(result3);
+
+int result4 = x / y;
+Console.WriteLine(result4);
